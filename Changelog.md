@@ -2,6 +2,24 @@
 
 English
 
+- **08-23-2024**
+
+	Update to **macOS Ventura 13.6.9 (22G830)**
+
+    **Update**
+    - Update `OpenCore` v. 1.0.1
+    - Update [kext] `AppleALC` v. 1.9.1
+	- Update [kext] `CPUFriend` v. 1.2.8
+    - Update [kext] `HibernationFixup` v. 1.5.1
+	- Update [kext] `Lilu` v. 1.6.8
+	- Update [kext] `RestrictEvents` v. 1.1.4
+	- Update [kext] `VirtualSMC` + plugins v. 1.3.3
+    - Update [kext] `WhateverGreen` v. 1.6.7
+    - Update [kext] stripped `AirportItlwm_Ventura` v. 2.4.0
+    - Update [kext] stripped `IntelBluetoothFirmware` v. 2.4.0 beta (commit 4ac4c79)
+	
+	
+
 - **06-10-2024**
 
 	Update to **macOS Ventura 13.6.7 (22G720)**
